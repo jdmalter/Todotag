@@ -1,0 +1,39 @@
+body {
+   background-color: rgba(246, 242, 242, 1);
+   font-weight: 400;
+}
+
+.btn-group {
+   margin: 5px 0;
+   padding: 0;
+}
+
+.btn {
+   border-radius: 0;
+}
+
+.btn-info {
+   background-color: rgba(66, 126, 147, 1) !important;
+}
+
+.btn-success {
+   background-color: rgba(125, 140, 31, 1) !important;
+}
+
+.btn-warning {
+   background-color: rgba(253, 215, 38, 1) !important;
+}
+
+.btn-danger {
+   background-color: rgba(209, 73, 5, 1) !important;
+}
+
+.form-control {
+   margin: 5px 0;
+}
+
+.input-group-lg > .form-control {
+   height: inherit;
+   padding: 5px;
+   font-size: 14px;
+}
